@@ -1,0 +1,5 @@
+c:\users\frederik.leth\documents\visual studio 2010\Projects\FunWithWcf\FunWithWcf.Contracts\bin\Debug\FunWithWcf.Contracts.dll
+c:\users\frederik.leth\documents\visual studio 2010\Projects\FunWithWcf\FunWithWcf.Contracts\bin\Debug\FunWithWcf.Contracts.pdb
+c:\users\frederik.leth\documents\visual studio 2010\Projects\FunWithWcf\FunWithWcf.Contracts\obj\Debug\FunWithWcf.Contracts.csprojResolveAssemblyReference.cache
+c:\users\frederik.leth\documents\visual studio 2010\Projects\FunWithWcf\FunWithWcf.Contracts\obj\Debug\FunWithWcf.Contracts.dll
+c:\users\frederik.leth\documents\visual studio 2010\Projects\FunWithWcf\FunWithWcf.Contracts\obj\Debug\FunWithWcf.Contracts.pdb

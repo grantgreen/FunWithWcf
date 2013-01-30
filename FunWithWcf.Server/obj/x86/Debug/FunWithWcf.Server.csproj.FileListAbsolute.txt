@@ -1,0 +1,10 @@
+c:\users\frederik.leth\documents\visual studio 2010\Projects\FunWithWcf\FunWithWcf.Server\obj\x86\Debug\FunWithWcf.Server.csprojResolveAssemblyReference.cache
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Server\bin\Debug\FunWithWcf.Server.exe.config
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Server\bin\Debug\FunWithWcf.Server.exe
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Server\bin\Debug\FunWithWcf.Server.pdb
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Server\bin\Debug\FunWithWcf.Contracts.dll
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Server\bin\Debug\log4net.dll
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Server\bin\Debug\FunWithWcf.Contracts.pdb
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Server\bin\Debug\log4net.xml
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Server\obj\x86\Debug\FunWithWcf.Server.exe
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Server\obj\x86\Debug\FunWithWcf.Server.pdb

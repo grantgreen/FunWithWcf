@@ -1,0 +1,8 @@
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcfClient.cs\bin\Debug\FunWithWcfClient.cs.exe.config
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcfClient.cs\bin\Debug\FunWithWcfClient.cs.exe
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcfClient.cs\bin\Debug\FunWithWcfClient.cs.pdb
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcfClient.cs\bin\Debug\FunWithWcf.Contracts.dll
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcfClient.cs\bin\Debug\FunWithWcf.Contracts.pdb
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcfClient.cs\obj\x86\Debug\FunWithWcfClient.cs.csprojResolveAssemblyReference.cache
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcfClient.cs\obj\x86\Debug\FunWithWcfClient.cs.exe
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcfClient.cs\obj\x86\Debug\FunWithWcfClient.cs.pdb
