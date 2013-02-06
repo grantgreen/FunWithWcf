@@ -38,8 +38,8 @@ namespace FunWithWcf.Contracts.Utils
         {
             var binding = new NetTcpBinding(SecurityMode.None, true)
                               {
-                                  ReceiveTimeout = new TimeSpan(0, 0, 1, 0),
-                                  SendTimeout = new TimeSpan(0, 0, 1, 0),
+                                  ReceiveTimeout = new TimeSpan(0, 0, 3, 0),
+                                  SendTimeout = new TimeSpan(0, 0, 3, 0),
                                   OpenTimeout = new TimeSpan(0,0,0,10),
                                   MaxReceivedMessageSize = 2147483647,
                                   MaxBufferPoolSize = 2147483647,

@@ -5,14 +5,13 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{B7925405-BE0A-4BC2-AE42-CC3EE9964886}</ProjectGuid>
+    <ProjectGuid>{FEB0129A-56A2-46A0-9471-99EA4CC8B959}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FunWithWcf.Contracts</RootNamespace>
-    <AssemblyName>FunWithWcf.Contracts</AssemblyName>
+    <RootNamespace>FunWithWcf.Tests</RootNamespace>
+    <AssemblyName>FunWithWcf.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -32,13 +31,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="log4net">
-      <HintPath>..\packages\log4net.2.0.0\lib\net40-full\log4net.dll</HintPath>
+    <Reference Include="nunit.framework">
+      <HintPath>..\packages\NUnit.2.6.2\lib\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Runtime.Serialization" />
-    <Reference Include="System.ServiceModel" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,13 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IFunService.cs" />
+    <Compile Include="SynchronizedCacheFixture.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Utils\ClientChannelWrapper.cs" />
-    <Compile Include="Utils\ConfigurationFactory.cs" />
-    <Compile Include="Utils\SynchronizedList.cs" />
-    <Compile Include="Utils\SynchronizedDictionary.cs" />
-    <Compile Include="Utils\WcfHost.cs" />
+    <Compile Include="SynchronizedTableFixture.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FunWithWcf.Contracts\FunWithWcf.Contracts.csproj">
+      <Project>{B7925405-BE0A-4BC2-AE42-CC3EE9964886}</Project>
+      <Name>FunWithWcf.Contracts</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

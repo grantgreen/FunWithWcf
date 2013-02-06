@@ -1,0 +1,9 @@
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Tests\bin\Debug\FunWithWcf.Tests.dll
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Tests\bin\Debug\FunWithWcf.Tests.pdb
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Tests\bin\Debug\FunWithWcf.Contracts.dll
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Tests\bin\Debug\FunWithWcf.Contracts.pdb
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Tests\obj\Debug\FunWithWcf.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Tests\obj\Debug\FunWithWcf.Tests.dll
+C:\Users\Frederik.Leth\Documents\Visual Studio 2010\Projects\FunWithWcf\FunWithWcf.Tests\obj\Debug\FunWithWcf.Tests.pdb

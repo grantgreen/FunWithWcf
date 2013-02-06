@@ -63,7 +63,7 @@ namespace FunWithWcf.Contracts.Utils
                 {
                     this.service = this.factory.CreateChannel();
                     this.Channel.OperationTimeout = new TimeSpan(0, 0, 0, 5);
-                    ((IClientChannel)service).Faulted += new EventHandler(ClientChannelWrapperFaulted);
+                    ((IClientChannel)service).Faulted += ClientChannelWrapperFaulted;
                 }
             }
         }
@@ -73,7 +73,7 @@ namespace FunWithWcf.Contracts.Utils
             {
                 lock (syncRoot)
                 {
-                    IClientChannel channel = this.service as IClientChannel;
+                    var channel = this.service as IClientChannel;
                     if (channel != null)
                     {
                         try
